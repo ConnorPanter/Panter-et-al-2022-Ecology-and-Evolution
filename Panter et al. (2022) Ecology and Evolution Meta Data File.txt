@@ -1,0 +1,19 @@
+Column name	Description
+centre_id	wildlife rehabiliation centre identifier
+centre_id_year	wildlife rehabiliation centre year identifier (only applicable to Cuan Wildlife Rescue)
+centre_ref	"admission record reference, wildlife rehabiliation centre specific"
+group	taxonomic group (raptor/owl)
+family	taxonomic family
+species	species binomial name
+common	species common name
+sex	"sex (M = male, F = female, NA = no data)"
+age	"age (ad = adult >1cy, juv = juvenile <1cy, NA = no data)"
+dd	admission day
+mm	admission month
+yy	admission year
+type	"admisson type (human, natural, unknown)"
+cause	admission cause (see supplementary material for definitions)
+fate	"fate (r = released, d = died/euthanized, c = kept captive) "
+lat	"latitude (decimal degrees, British National Grid projection)"
+long	"longitude (decimal degrees, British National Grid projection)"
+prop_urban	proportional urban land cover cells within each 2km buffer (see Methods)
